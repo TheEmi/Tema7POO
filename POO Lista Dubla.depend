@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616135368 source:c:\users\joe\documents\c++\poo lista dubla\main.cpp
+	<iostream>
+	<string.h>
+
